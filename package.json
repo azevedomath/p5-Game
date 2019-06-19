@@ -1,0 +1,27 @@
+{
+  "name": "p5-game",
+  "version": "1.0.0",
+  "description": "Server for p5.js game",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azevedomath/p5-Game.git"
+  },
+  "keywords": [
+    "js",
+    "p5.js",
+    "node",
+    "sockets",
+    "game"
+  ],
+  "author": "Matheus Azevedo Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azevedomath/p5-Game/issues"
+  },
+  "homepage": "https://github.com/azevedomath/p5-Game#readme"
+}
